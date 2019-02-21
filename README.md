@@ -11,7 +11,7 @@ this tool will make your basic pentesting task like Information Gathering, Audit
 
 - 1.0  First Release
 
-# Tools Auto Executed With This Tool
+# Pentest Tools Auto Executed With Cat-Nip
 
 - Whois Lookup
 - DNSmap
