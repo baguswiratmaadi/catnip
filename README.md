@@ -47,4 +47,5 @@ this is preview Cat-Nip
 
 
 # Disclaimer
-Do not scan government and private IT objects without legal permission.
+- Do not scan government and private IT objects without legal permission.
+- Do At Your Own Risk
