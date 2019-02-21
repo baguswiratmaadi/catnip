@@ -1,4 +1,4 @@
-#Cat-Nip Automated Basic Pentest Tool - Designe For Kali Linux
+# Cat-Nip Automated Basic Pentest Tool - Designed For Kali Linux
 
 
 ![SS](https://images.theconversation.com/files/250711/original/file-20181214-185258-1czwsab.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=496&fit=clip)
