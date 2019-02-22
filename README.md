@@ -1,11 +1,19 @@
-# Cat-Nip Automated Basic Pentest Tool - Designed For Kali Linux
-
+# Cat-Nip Automated Basic Pentest Tool
 
 ![SS](https://images.theconversation.com/files/250711/original/file-20181214-185258-1czwsab.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=496&fit=clip)
 
 
 this tool will make your basic pentesting task like Information Gathering, Auditing, And Reporting so this tool will do every task fully automatic.
 
+# Usage Guide
+- Download / Clone Cat-Nip
+git clone https://github.com/baguswiratmaadi/catnip
+- Go Inside Cat-Nip Dir
+cd catnip
+- Give Permission To Cat-Nip
+chmod 777 catnip.sh
+- Run Cat-Nip
+./catnip.sh
 
 # Changelog
 
