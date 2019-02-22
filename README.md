@@ -7,7 +7,9 @@ this tool will make your basic pentesting task like Information Gathering, Audit
 
 # Usage Guide
 - Download / Clone Cat-Nip
+
 git clone https://github.com/baguswiratmaadi/catnip
+
 - Go Inside Cat-Nip Dir
 
 cd catnip
