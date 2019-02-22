@@ -9,10 +9,15 @@ this tool will make your basic pentesting task like Information Gathering, Audit
 - Download / Clone Cat-Nip
 git clone https://github.com/baguswiratmaadi/catnip
 - Go Inside Cat-Nip Dir
+
 cd catnip
+
 - Give Permission To Cat-Nip
+
 chmod 777 catnip.sh
+
 - Run Cat-Nip
+
 ./catnip.sh
 
 # Changelog
