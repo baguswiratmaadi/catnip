@@ -49,16 +49,16 @@ this is preview Cat-Nip
 
 # Tools Preview
 
-![SS](https://baguswiratmaadi.github.io/images/SS/Catnip/1.png)
-![SS](https://baguswiratmaadi.github.io/images/SS/Catnip/2.png)
+![SS](https://github.com/baguswiratmaadi/catnip/blob/master/SS/1.png)
+![SS](https://github.com/baguswiratmaadi/catnip/blob/master/SS/2.png)
 
 # Output Result
-![SS](https://baguswiratmaadi.github.io/images/SS/Catnip/0.png)
+![SS](https://github.com/baguswiratmaadi/catnip/blob/master/SS/0.png)
 
 # Report In HTML
-![SS](https://baguswiratmaadi.github.io/images/SS/Catnip/3.png)
-![SS](https://baguswiratmaadi.github.io/images/SS/Catnip/4.png)
-![SS](https://baguswiratmaadi.github.io/images/SS/Catnip/5.png)
+![SS](https://github.com/baguswiratmaadi/catnip/blob/master/SS/3.png)
+![SS](https://github.com/baguswiratmaadi/catnip/blob/master/SS/4.png)
+![SS](https://github.com/baguswiratmaadi/catnip/blob/master/SS/5.png)
 
 
 # Disclaimer
